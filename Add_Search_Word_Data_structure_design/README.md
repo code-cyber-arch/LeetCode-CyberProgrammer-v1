@@ -1,4 +1,4 @@
-# Add and Search Word - Data structure design - Explain in relation to cybersecurity
+# Add and Search Word - Data structure design
 
 This code implements a dictionary data structure that allows adding words and searching for words with wildcard characters ('.'). While this specific implementation may not have a direct cybersecurity application, understanding and implementing data structures like tries can be relevant in cybersecurity for various reasons:
 
