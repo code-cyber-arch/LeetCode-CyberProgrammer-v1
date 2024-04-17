@@ -1,4 +1,4 @@
-# Count Primes - Solution Explanation
+# Count Primes - Explain in relation to cybersecurity
 
 This countPrimes solution efficiently calculates the number of prime numbers less than a given number n. While the direct application of this code may not be directly related to cybersecurity, understanding prime numbers and efficient algorithms for their calculation can be relevant in security contexts. Here's how this code relates to cybersecurity:
 
