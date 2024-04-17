@@ -1,4 +1,4 @@
-# Longest Substring Without Repeating Characters - Explain in relation to cybersecurity
+# Longest Substring Without Repeating Characters
 
 This code implements a solution to find the length of the longest substring without repeating characters in a given string s. While this specific implementation may not have a direct cybersecurity application, understanding and implementing algorithms like this can be relevant in cybersecurity for various reasons:
 
