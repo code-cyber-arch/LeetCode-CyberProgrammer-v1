@@ -1,4 +1,4 @@
-# Find Minimum in Rotated Sorted Array - Explain in relation to cybersecurity
+# Find Minimum in Rotated Sorted Array
 
 This code implements a binary search algorithm to find the minimum element in a rotated sorted array nums. While this specific implementation may not have a direct cybersecurity application, understanding and implementing algorithms like this can be relevant in cybersecurity for various reasons:
 
