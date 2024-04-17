@@ -1,8 +1,8 @@
-#  LeetCode - Cyber-Programmer - 10 Coding Probles v1
+#  LeetCode - Cyber-Programmer - 10 Coding Problems v1
 
 LeetCode primarily focuses on general data structures and algorithms, but certain questions can be more relevant to cybersecurity by emphasizing areas like cryptography, secure data handling, and system security concepts.
 ###
-Here are 10 LeetCode problems that could be particularly relevant for someone interested in cybersecurity, touching on concepts that are often used or paralleled in the field:
+Here are 10 LeetCode problems that could be particularly relevant for someone interested in cybersecurity, touching on concepts that are often used or paralleled in the field. This is the first volume in a series. For solutions and detailed explanations for each problem, follow the link provided.
 
 |   | Problem | Description |
 |------|------|------|
@@ -18,3 +18,6 @@ Here are 10 LeetCode problems that could be particularly relevant for someone in
 | 10 | Linked List Cycle II (Problem 142) | Relevant for understanding memory use and pointers, which can help prevent vulnerabilities like buffer overflows and memory leaks |
 
 These problems provide a good mix of algorithmic complexity and data structure usage, which can help in understanding and solving problems related to secure computing and cybersecurity challenges.
+
+## Contributor
+[Abdurahman Mahammedsied](https://www.linkedin.com/in/abdu-maha/)
