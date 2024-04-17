@@ -1,4 +1,4 @@
-# LRU Cache - Explain in relation to cybersecurity
+# LRU Cache
 
 This code implements an LRU (Least Recently Used) cache, which is a data structure used to store a limited number of items and evict the least recently used item when the capacity is reached. While this specific implementation may not directly relate to cybersecurity, understanding and implementing efficient data structures like caches can be relevant in cybersecurity for various reasons:
 
