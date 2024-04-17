@@ -9,7 +9,7 @@ Here are 10 LeetCode problems that could be particularly relevant for someone in
 | 01 | [Two Sum (Problem 1)](https://github.com/amirasabdu/LeetCode-CyberProgrammer-v1/tree/main/Two_Sum) | Understand hashing mechanisms which are crucial for data integrity in security |
 | 02 | [Valid Anagram (Problem 242)](https://github.com/amirasabdu/LeetCode-CyberProgrammer-v1/tree/main/Valid_Anagram) | This problem involves checking if two strings are anagrams using hash maps, which can be applied to check data integrity and avoid data tampering |
 | 03 | [Count Primes (Problem 204)](https://github.com/amirasabdu/LeetCode-CyberProgrammer-v1/tree/main/Count_Primes) | Understanding how to compute prime numbers efficiently is crucial for algorithms used in cryptography like RSA |
-| 04 | LRU Cache (Problem 146) | Implementing least recently used (LRU) cache could be relevant for understanding how session management and caching works in web security |
+| 04 | [LRU Cache (Problem 146)](https://github.com/amirasabdu/LeetCode-CyberProgrammer-v1/tree/main/LRU_Cache) | Implementing least recently used (LRU) cache could be relevant for understanding how session management and caching works in web security |
 | 05 | Implement Trie (Prefix Tree) (Problem 208) | Tries are useful for auto-completion but can also be used in creating efficient IP routing tables, important for network security |
 | 06 | Longest Substring Without Repeating Characters (Problem 3) | Relates to understanding complexity and efficiency in algorithms, crucial for secure and efficient coding practices |
 | 07 | Encode and Decode Strings (Problem 271) | Understanding how to safely encode and decode data can be directly related to data privacy and security measures |
