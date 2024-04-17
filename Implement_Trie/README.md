@@ -1,4 +1,4 @@
-# Implement Trie (Prefix Tree) - Explain in relation to cybersecurity
+# Implement Trie (Prefix Tree)
 
 This code implements a trie data structure, which is used for efficient storage and retrieval of strings. While this specific implementation may not have a direct cybersecurity application, understanding and implementing data structures like tries can be relevant in cybersecurity for various reasons:
 
