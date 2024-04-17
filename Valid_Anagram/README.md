@@ -1,4 +1,4 @@
-# Valid Anagram - Explain in relation to cybersecurity
+# Valid Anagram
 
 The isAnagram solution uses the Counter class from the collections module in Python to determine if two strings s and t are anagrams of each other. An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, using all the original letters exactly once. Here's how this solution relates to cybersecurity:
 
