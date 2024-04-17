@@ -15,7 +15,7 @@ Here are 10 LeetCode problems that could be particularly relevant for someone in
 | 07 | [Encode and Decode Strings (Problem 271)](https://github.com/amirasabdu/LeetCode-CyberProgrammer-v1/tree/main/Encode_and_Decode_Strings) | Understanding how to safely encode and decode data can be directly related to data privacy and security measures |
 | 08 | [Add and Search Word - Data structure design (Problem 211)](https://github.com/amirasabdu/LeetCode-CyberProgrammer-v1/tree/main/Add_Search_Word_Data_structure_design) | Deals with designing data structures that allow flexible and secure data retrieval, similar to database security mechanisms |
 | 09 | [Find Minimum in Rotated Sorted Array (Problem 153)](https://github.com/amirasabdu/LeetCode-CyberProgrammer-v1/tree/main/Find_Minimum_in_Rotated_Sorted_Array) | While more of an algorithm problem, understanding sorted arrays and searches can aid in understanding more complex encryption and data retrieval algorithms |
-| 10 | Linked List Cycle II (Problem 142) | Relevant for understanding memory use and pointers, which can help prevent vulnerabilities like buffer overflows and memory leaks |
+| 10 | [Linked List Cycle II (Problem 142)](https://github.com/amirasabdu/LeetCode-CyberProgrammer-v1/tree/main/Linked_List_Cycle_II) | Relevant for understanding memory use and pointers, which can help prevent vulnerabilities like buffer overflows and memory leaks |
 
 These problems provide a good mix of algorithmic complexity and data structure usage, which can help in understanding and solving problems related to secure computing and cybersecurity challenges.
 
