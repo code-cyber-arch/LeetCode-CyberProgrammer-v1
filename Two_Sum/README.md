@@ -1,4 +1,4 @@
-# Two Sum Solution Explanation
+# Two Sum - Explain in relation to cybersecurity
 
 This twoSum solution uses a dictionary to efficiently find two numbers in a list nums whose sum equals a specified target. While the direct application of this code may not be directly related to cybersecurity, the underlying concept of efficiently finding pairs of values in a dataset can be relevant in security contexts. Here's how this code relates to cybersecurity:
 
